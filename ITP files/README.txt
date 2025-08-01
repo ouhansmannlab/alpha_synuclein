@@ -1,4 +1,4 @@
-This directory contains (besides this README.txt) three folders (Rod Binding Dimer, Twister Binding Dimer, and Beta Strand Dimer) that contain itp files of all simulations discussed in the article.
+This directory contains (besides this README.txt) three folders (Rod Binding Dimer, Twister Binding Dimer, and Beta Strand Dimer) that contain ITP files (separated by chain) of all simulations discussed in the article.
 
 Rod Binding Dimer;
 This folder contains three sub-directories containing all Rod Binding dimer ITP files (separated by chain) describing the system:
